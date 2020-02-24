@@ -22,12 +22,15 @@ Documents:
 4- [Deep Learning Models for Wireless Signal Classification With Distributed Low-Cost Spectrum Sensors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8357902)
 
 
-### Friday Feb. 28, 2020
+### Monady March 02, 2020
 #### Sajad's Topic of Interest: 
 Description:
 
+Generative Adversarial Nets
+
 Documents:
 
+1- [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 
 
 <!-- ## Welcome to GitHub Pages -->

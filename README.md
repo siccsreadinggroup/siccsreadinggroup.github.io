@@ -32,6 +32,19 @@ Documents:
 
 1- [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 
+### Monady March 16, 2020
+#### Mohammed's Topic of Interest: 
+Description:
+
+KPsec: Secure End-to-End Communications for Multi-Hop Wireless Networks
+
+Documents:
+
+1- [KPsec: Secure End-to-End Communications for Multi-Hop Wireless Networks](https://arxiv.org/pdf/1911.05126.pdf)
+
+2- [A Novel Probabilistic Key Management Algorithm for Large-Scale MANETs](https://ieeexplore.ieee.org/abstract/document/6550422)
+
+3- [Secure Overlay Routing Using Key Pre-Distribution: A Linear Distance Optimization Approach](https://ieeexplore.ieee.org/abstract/document/7289466)
 
 <!-- ## Welcome to GitHub Pages -->
 <!--

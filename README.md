@@ -46,6 +46,24 @@ Documents:
 
 3- [Secure Overlay Routing Using Key Pre-Distribution: A Linear Distance Optimization Approach](https://ieeexplore.ieee.org/abstract/document/7289466)
 
+### Wednesday November 11, 2020
+#### Alireza's Topic of Interest: 
+Description:
+
+An Introduction to Federated Learning for UAV networks
+
+Documents:
+
+1- [Federated Learning in the Sky- Joint Power Allocation and Scheduling with UAV Swarms](https://ieeexplore.ieee.org/document/9148776)
+
+2- [Federated Learning Assisted Multi-UAV Networks](https://ieeexplore.ieee.org/document/9210077)
+
+3- [Learning in the Air- Secure Federated Learning for UAV-Assisted Crowdsensing](https://ieeexplore.ieee.org/document/9159929)
+
+4- [Dispersed Federated Learning- Vision, Taxonomy, and Future Directions](https://arxiv.org/abs/2008.05189)
+
+5- [Federated Learning for Internet of Things- Recent Advances, Taxonomy, and Open Challenges](https://arxiv.org/abs/2009.13012)
+
 <!-- ## Welcome to GitHub Pages -->
 <!--
 You can use the [editor on GitHub](https://github.com/alireza1990/groupmeeting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
